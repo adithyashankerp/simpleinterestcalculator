@@ -1,0 +1,13 @@
+.Display{
+  text-align: center;
+  background-color: orangered;
+  height: 150px;
+  padding: 10px;
+}
+i{
+  margin: 0 10px;
+  
+}
+#main{
+  color: rgb(0, 255, 26);
+}
